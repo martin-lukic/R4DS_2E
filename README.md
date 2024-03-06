@@ -1,7 +1,19 @@
-This is a repository giving solutions to the second edition of R for Data Science which can be found online for free here -> https://r4ds.hadley.nz/
+# R for Data Science (Second Edition) Exercise Solutions
 
-The solutions for each chapter is titled with its respective chapter number and name in a RMarkdown document. If you can't find a specific chapter number, it means it didn't have any exercises.
+This repository contains solutions to exercises from the second edition of the book *R for Data Science*, which is available online for free [here](https://r4ds.hadley.nz/).
 
-Some of the solutions within each RMarkdown file may be incomplete, in which case I suggest looking through the following link -> https://jrnold.github.io/r4ds-exercise-solutions/ <- which details the solutions for the first edition of the book (Note that alot of the first edition questions appear in the second edition so its a very useful resource, in fact many of the solutions found in this repo may be adapted from this resource)
+## Structure
 
-It may also be worth keeping an eye on the following link -> https://mine-cetinkaya-rundel.github.io/r4ds-solutions/ <- which is supposed to give solutions to the second edition but is currently WIP at the time of writing
+The solutions for each chapter are organized into separate RMarkdown documents. Each file is titled with the respective chapter number and name.
+
+If a specific chapter number is missing, it indicates that the chapter does not contain exercises.
+
+## Completeness
+
+Please note that some solutions within each RMarkdown file may be incomplete. In such cases, consider referring to the [solutions provided here](https://jrnold.github.io/r4ds-exercise-solutions/), which detail solutions for the first edition of the book. Many exercises from the first edition are included in the second edition, making this resource valuable for completing solutions. (Many of the solutions in this repo would have been adapted from this resource)
+
+## Work in Progress
+
+Additionally, you may find solutions in progress for the second edition at [this link](https://mine-cetinkaya-rundel.github.io/r4ds-solutions/). Although it is a work in progress at the time of writing, it may provide further insights into exercises and solutions.
+
+Any contributions to completing solutions or providing additional insights are welcomed.
